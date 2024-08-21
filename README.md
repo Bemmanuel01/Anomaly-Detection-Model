@@ -33,5 +33,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Acknowledgements
 - Plotly for interactive visualizations.
 - scikit-learn for machine learning algorithms.
-- 
-statsmodels for statistical models.
+- statsmodels for statistical models.
